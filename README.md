@@ -1,4 +1,4 @@
-# Weatther Forecast App
+# Weather Forecast App
 ### Description 💰💸
 
 Simple React project to get the weather forecast by city in some European countries from the OpenWeather API.
